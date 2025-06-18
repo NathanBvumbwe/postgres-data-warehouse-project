@@ -1,3 +1,5 @@
+--so this is the data_warehouse am building for my data virtualization assignment. abit messy and ugly but not bad for a start 
+	
 -- Database: data_warehouse
 
 -- DROP DATABASE IF EXISTS data_warehouse;
