@@ -1,0 +1,169 @@
+{"Customer_ID": "CUST3286", "age": 32, "location": "South", "salary": 75000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST4582", "age": 28, "location": "North", "salary": 68000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST8359", "age": 45, "location": "West", "salary": 92000, "race": "Hispanic", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST7924", "age": 39, "location": "South", "salary": 81000, "race": "Black", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST2519", "age": 26, "location": "East", "salary": 58000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST8527", "age": 31, "location": "East", "salary": 72000, "race": "Asian", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST6925", "age": 50, "location": "East", "salary": 105000, "race": "Black", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST2307", "age": 22, "location": "South", "salary": 48000, "race": "Hispanic", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST7065", "age": 35, "location": "East", "salary": 88000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST3803", "age": 29, "location": "North", "salary": 67000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST4598", "age": 41, "location": "East", "salary": 95000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST7572", "age": 33, "location": "North", "salary": 79000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST9179", "age": 27, "location": "East", "salary": 63000, "race": "Hispanic", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST9830", "age": 44, "location": "South", "salary": 101000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST9348", "age": 30, "location": "South", "salary": 71000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST3621", "age": 38, "location": "South", "salary": 87000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST8668", "age": 25, "location": "West", "salary": 54000, "race": "Hispanic", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST2876", "age": 47, "location": "North", "salary": 112000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST8433", "age": 36, "location": "West", "salary": 83000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST5889", "age": 31, "location": "North", "salary": 69000, "race": "Black", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST9689", "age": 42, "location": "South", "salary": 98000, "race": "Hispanic", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST4923", "age": 23, "location": "East", "salary": 51000, "race": "Asian", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST8962", "age": 34, "location": "North", "salary": 76000, "race": "White", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST9645", "age": 28, "location": "South", "salary": 62000, "race": "Black", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST6107", "age": 49, "location": "South", "salary": 107000, "race": "Hispanic", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST5061", "age": 32, "location": "West", "salary": 74000, "race": "Asian", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST4608", "age": 26, "location": "South", "salary": 56000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST2160", "age": 39, "location": "North", "salary": 89000, "race": "Black", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST3167", "age": 37, "location": "South", "salary": 85000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST2545", "age": 24, "location": "West", "salary": 53000, "race": "Asian", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST1887", "age": 43, "location": "West", "salary": 99000, "race": "White", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST5073", "age": 29, "location": "East", "salary": 65000, "race": "Black", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST5563", "age": 35, "location": "West", "salary": 82000, "race": "Hispanic", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST9856", "age": 31, "location": "North", "salary": 70000, "race": "Asian", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST4502", "age": 46, "location": "West", "salary": 103000, "race": "White", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST8454", "age": 27, "location": "West", "salary": 59000, "race": "Black", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST4111", "age": 33, "location": "West", "salary": 78000, "race": "Hispanic", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST6138", "age": 40, "location": "North", "salary": 94000, "race": "Asian", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST9320", "age": 25, "location": "South", "salary": 55000, "race": "White", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST2964", "age": 48, "location": "South", "salary": 109000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST9565", "age": 30, "location": "North", "salary": 73000, "race": "Hispanic", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST5351", "age": 36, "location": "East", "salary": 86000, "race": "Asian", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST8508", "age": 22, "location": "North", "salary": 50000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST6718", "age": 44, "location": "East", "salary": 102000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST5956", "age": 28, "location": "West", "salary": 64000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST5333", "age": 34, "location": "North", "salary": 80000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST4450", "age": 38, "location": "East", "salary": 91000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST2512", "age": 26, "location": "East", "salary": 57000, "race": "Black", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST5291", "age": 41, "location": "East", "salary": 97000, "race": "Hispanic", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST2232", "age": 29, "location": "North", "salary": 66000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST3426", "age": 32, "location": "East", "salary": 77000, "race": "White", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST4441", "age": 45, "location": "North", "salary": 104000, "race": "Black", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST3532", "age": 23, "location": "West", "salary": 52000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST6442", "age": 37, "location": "North", "salary": 84000, "race": "Asian", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST1634", "age": 30, "location": "North", "salary": 71000, "race": "White", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST6000", "age": 39, "location": "West", "salary": 90000, "race": "Black", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST5564", "age": 24, "location": "West", "salary": 54000, "race": "Hispanic", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST9785", "age": 42, "location": "West", "salary": 99000, "race": "Asian", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST5349", "age": 27, "location": "East", "salary": 60000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST9379", "age": 35, "location": "East", "salary": 81000, "race": "Black", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST8144", "age": 31, "location": "North", "salary": 72000, "race": "Hispanic", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST6143", "age": 46, "location": "East", "salary": 105000, "race": "Asian", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST7592", "age": 28, "location": "West", "salary": 63000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST7211", "age": 33, "location": "West", "salary": 79000, "race": "Black", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST1006", "age": 40, "location": "West", "salary": 95000, "race": "Hispanic", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST8238", "age": 25, "location": "East", "salary": 55000, "race": "Asian", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST2389", "age": 48, "location": "South", "salary": 108000, "race": "White", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST6085", "age": 29, "location": "South", "salary": 67000, "race": "Black", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST2193", "age": 36, "location": "South", "salary": 85000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST7547", "age": 22, "location": "West", "salary": 49000, "race": "Asian", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST4585", "age": 43, "location": "North", "salary": 101000, "race": "White", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST3184", "age": 30, "location": "North", "salary": 70000, "race": "Black", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST8305", "age": 34, "location": "West", "salary": 82000, "race": "Hispanic", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST5543", "age": 38, "location": "South", "salary": 92000, "race": "Asian", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST5681", "age": 26, "location": "North", "salary": 58000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST3471", "age": 41, "location": "North", "salary": 96000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST7678", "age": 27, "location": "North", "salary": 61000, "race": "Hispanic", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST1320", "age": 32, "location": "West", "salary": 76000, "race": "Asian", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST7389", "age": 45, "location": "East", "salary": 106000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST1475", "age": 23, "location": "West", "salary": 51000, "race": "Black", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST9751", "age": 37, "location": "West", "salary": 88000, "race": "Hispanic", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST8022", "age": 30, "location": "North", "salary": 71000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST4467", "age": 39, "location": "West", "salary": 93000, "race": "White", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST7906", "age": 24, "location": "West", "salary": 53000, "race": "Black", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST4673", "age": 42, "location": "North", "salary": 98000, "race": "Hispanic", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST1333", "age": 28, "location": "South", "salary": 65000, "race": "Asian", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST4571", "age": 35, "location": "North", "salary": 80000, "race": "White", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST6096", "age": 31, "location": "North", "salary": 72000, "race": "Black", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST4249", "age": 46, "location": "West", "salary": 104000, "race": "Hispanic", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST2983", "age": 29, "location": "East", "salary": 66000, "race": "Asian", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST9289", "age": 33, "location": "East", "salary": 83000, "race": "White", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST8102", "age": 40, "location": "West", "salary": 97000, "race": "Black", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST9817", "age": 25, "location": "East", "salary": 56000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST5022", "age": 47, "location": "East", "salary": 110000, "race": "Asian", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST7209", "age": 30, "location": "West", "salary": 70000, "race": "White", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST1166", "age": 36, "location": "East", "salary": 86000, "race": "Black", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST4937", "age": 22, "location": "West", "salary": 50000, "race": "Hispanic", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST5820", "age": 43, "location": "North", "salary": 102000, "race": "Asian", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST9698", "age": 27, "location": "East", "salary": 59000, "race": "White", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST6023", "age": 34, "location": "West", "salary": 81000, "race": "Black", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST9779", "age": 38, "location": "East", "salary": 91000, "race": "Hispanic", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST9595", "age": 26, "location": "West", "salary": 57000, "race": "Asian", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST6912", "age": 41, "location": "East", "salary": 98000, "race": "White", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST1745", "age": 29, "location": "South", "salary": 68000, "race": "Black", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST1200", "age": 35, "location": "West", "salary": 84000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST1841", "age": 23, "location": "East", "salary": 52000, "race": "Asian", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST2213", "age": 44, "location": "West", "salary": 105000, "race": "White", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST5066", "age": 30, "location": "East", "salary": 71000, "race": "Black", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST7232", "age": 37, "location": "South", "salary": 89000, "race": "Hispanic", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST1986", "age": 31, "location": "West", "salary": 75000, "race": "Asian", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST2330", "age": 45, "location": "East", "salary": 107000, "race": "White", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST5632", "age": 28, "location": "East", "salary": 64000, "race": "Black", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST4241", "age": 33, "location": "East", "salary": 82000, "race": "Hispanic", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST3330", "age": 39, "location": "South", "salary": 94000, "race": "Asian", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST3037", "age": 24, "location": "East", "salary": 54000, "race": "White", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST2317", "age": 42, "location": "West", "salary": 99000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST2496", "age": 27, "location": "East", "salary": 60000, "race": "Hispanic", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST9502", "age": 34, "location": "South", "salary": 83000, "race": "Asian", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST9056", "age": 21, "location": "West", "salary": 48000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST2713", "age": 46, "location": "East", "salary": 103000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST7561", "age": 29, "location": "East", "salary": 67000, "race": "Hispanic", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST2899", "age": 36, "location": "East", "salary": 85000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST9494", "age": 31, "location": "North", "salary": 73000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST9998", "age": 47, "location": "South", "salary": 110000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST1472", "age": 25, "location": "West", "salary": 55000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST7684", "age": 40, "location": "North", "salary": 96000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST3522", "age": 32, "location": "North", "salary": 78000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST8736", "age": 38, "location": "West", "salary": 92000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST9327", "age": 26, "location": "South", "salary": 58000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST9318", "age": 43, "location": "West", "salary": 101000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST8316", "age": 30, "location": "West", "salary": 72000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST6272", "age": 35, "location": "West", "salary": 87000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST6213", "age": 22, "location": "West", "salary": 50000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST1606", "age": 44, "location": "South", "salary": 106000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST9617", "age": 28, "location": "West", "salary": 64000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST8692", "age": 33, "location": "South", "salary": 80000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST9742", "age": 39, "location": "North", "salary": 93000, "race": "Hispanic", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST2121", "age": 25, "location": "North", "salary": 56000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST2646", "age": 41, "location": "West", "salary": 97000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST1919", "age": 27, "location": "North", "salary": 61000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST7751", "age": 34, "location": "South", "salary": 82000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST4945", "age": 30, "location": "West", "salary": 71000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST5183", "age": 45, "location": "East", "salary": 104000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST8237", "age": 23, "location": "South", "salary": 53000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST4263", "age": 37, "location": "West", "salary": 88000, "race": "Hispanic", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST5847", "age": 31, "location": "East", "salary": 75000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST1132", "age": 48, "location": "West", "salary": 109000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST6772", "age": 26, "location": "East", "salary": 59000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST2591", "age": 33, "location": "South", "salary": 79000, "race": "Hispanic", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST6977", "age": 40, "location": "North", "salary": 95000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST4289", "age": 24, "location": "West", "salary": 54000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST5210", "age": 42, "location": "East", "salary": 100000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST3306", "age": 28, "location": "West", "salary": 63000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST5332", "age": 35, "location": "West", "salary": 84000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST7242", "age": 31, "location": "East", "salary": 74000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST6374", "age": 46, "location": "West", "salary": 105000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST5951", "age": 29, "location": "West", "salary": 68000, "race": "Hispanic", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST9071", "age": 36, "location": "North", "salary": 86000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST8432", "age": 22, "location": "South", "salary": 51000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST2622", "age": 43, "location": "South", "salary": 102000, "race": "Black", "gender": "Female", "education": "PhD"}
+{"Customer_ID": "CUST8264", "age": 27, "location": "East", "salary": 60000, "race": "Hispanic", "gender": "Male", "education": "Bachelor's"}
+{"Customer_ID": "CUST6876", "age": 34, "location": "East", "salary": 81000, "race": "Asian", "gender": "Female", "education": "Master's"}
+{"Customer_ID": "CUST2501", "age": 39, "location": "North", "salary": 94000, "race": "White", "gender": "Female", "education": "High School"}
+{"Customer_ID": "CUST4990", "age": 25, "location": "North", "salary": 55000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST4538", "age": 41, "location": "South", "salary": 98000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
+{"Customer_ID": "CUST3370", "age": 30, "location": "North", "salary": 70000, "race": "Asian", "gender": "Male", "education": "Master's"}
+{"Customer_ID": "CUST1243", "age": 36, "location": "North", "salary": 85000, "race": "White", "gender": "Male", "education": "High School"}
+{"Customer_ID": "CUST1858", "age": 23, "location": "South", "salary": 52000, "race": "Black", "gender": "Male", "education": "PhD"}
+{"Customer_ID": "CUST8344", "age": 44, "location": "North", "salary": 103000, "race": "Hispanic", "gender": "Female", "education": "Bachelor's"}
